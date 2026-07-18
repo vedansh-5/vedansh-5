@@ -1,39 +1,95 @@
-# 💫 About Me:
-Hey there! I'm Vedansh Saini, an ✏️architecture student by day and a 💻tech enthusiast by night. While my academic world revolves around buildings, urban planning, and design, my true passion lies in software development, AI, and open-source contributions. I'm on a mission to blend the physical and digital worlds—creating experiences that are as functional as they are aesthetic!
 
-# 🌟 What I’m Up To: <br>
-  🛠️ Building Cool Stuff: From music apps to social media platforms, and even a 2D metaverse—I love crafting interactive digital experiences.<br>
-  🤖 AI + DSA Enthusiast: Exploring how AI can supercharge data structures and algorithms to create smarter, more efficient solutions.<br>
-  🧑‍💻 Open Source Contributor: Actively contributing to repositories, especially those under Apache and AI-Alliance,.<br>
-  📦 Full-Stack Developer: Working with MERN, Express, MongoDB, and various front-end & back-end technologies to build scalable applications.<br>
-  🚀 AI-Powered Project Generator: Developing an MVP for a MERN-based GUI app that generates project boilerplates using modern tech stacks.<br>
+<div align="center">
 
+# Hi, I'm Vedansh 👋
 
-# 🔥 Tech Stack:
-I love Java, JavaScript, and Python, but my skills don’t stop there! From front-end magic ✨ with React, TailwindCSS, and Next.js to backend wizardry 🧙‍♂️ with Node.js, Express, and MongoDB, I enjoy the entire full-stack journey. <br>
-🚀 Tools & Technologies I Use
-Frontend: React, Next.js, TailwindCSS
-Backend: Node.js, Express, MongoDB, JAVA
-Build tools: Gradle
-AI & Data Science: NumPy, Anaconda
-Testing & APIs: Postman
-Version Control & CI/CD: GitHub
-I’m also exploring AI, cloud computing, web3, and game development (Unreal Engine, Epic Games) to push the boundaries of innovation! 🚀
+### Software Engineer • Open Source Contributor • B.Arch @ IIT (BHU)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedansh-s-7b58b8288/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SainiVedan92722) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:vedanshsaini7719@gmail.com)
+Building backend systems, cloud infrastructure, and developer tools.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vedansh-s-7b58b8288)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x)](https://x.com/SainiVedan92722)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedanshsaini7719@gmail.com)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vedansh-5&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vedansh-5&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedansh-5&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=vedansh-5&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vedansh-5&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
 
+## About Me
+
+- Google Summer of Code Contributor **(2025, 2026)** @ **FOSSASIA**
+- LFX Mentee @ **CNCF (KubeStellar)**
+- Building **Visdom Cloud**, a multi-tenant cloud platform for Visdom
+- Interested in backend engineering, distributed systems, cloud infrastructure, and AI systems
+- Preparing for Software Engineering internships through DSA, System Design, and CS Fundamentals
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,go,python,js,ts,react,nextjs,nodejs,express,spring,postgres,mongodb,redis,docker,kubernetes,linux,nginx,git,github,postman,gradle&perline=7" />
+
+</div>
+
+---
+
+## Open Source
+
+| Program | Organization |
+|---------|--------------|
+| Google Summer of Code 2025 | FOSSASIA |
+| Google Summer of Code 2026 | FOSSASIA |
+| LFX Mentorship | CNCF / KubeStellar |
+| Contributor | Apache Software Foundation |
+| Contributor | AI Alliance |
+
+I enjoy contributing to projects involving developer tooling, cloud infrastructure, distributed systems, and AI-powered applications.
+
+---
+
+## Featured Projects
+
+### Visdom Cloud
+A cloud-native collaborative visualization platform with multi-tenancy, authentication, billing, and isolated workspaces.
+
+### graphContext MCP
+An MCP server that transforms repositories into graph representations for AI agents using Tree-sitter.
+
+### Waveform Equation Reconstruction
+Converts audio waveforms into mathematical equations using Fourier analysis and interactive visualizations.
+
+### Scrum Helper
+Chrome extension that automatically generates daily scrum updates from GitHub activity.
+
+---
+
+## Currently Learning
+
+- Distributed Systems
+- System Design
+- Kubernetes
+- High-Performance Backend Engineering
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vedansh-5&theme=github-dark-blue&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Building useful software. Learning in public. Contributing to open source."*
+
+</div>
